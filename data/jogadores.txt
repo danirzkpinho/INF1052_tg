@@ -1,0 +1,95 @@
+Jogador	Equipa	Posição	JJ	G
+AAAAAAAA	b	b	44	44
+Basilio Marques	Nacional	N.A.	0	0
+Carlos Pinto	Santa Clara	N.A.	0	0
+AAA	AAA	AAA	4	3
+Cláudio Braga	Marítimo	N.A.	0	0
+Costinha	Nacional	N.A.	0	0
+Daniel Portela	Boavista	N.A.	0	0
+Daniel Ramos	Desp. Chaves	N.A.	0	0
+Faissal Zangre	Desp. Chaves	N.A.	0	0
+Hugo Santos	Desportivo Aves	N.A.	0	0
+Ivo Vieira	Moreirense	N.A.	0	0
+João Henriques	Santa Clara	N.A.	0	0
+Jorge Rosário	Vitória Guimarães	N.A.	0	0
+Jorge Simão	Boavista	N.A.	99	0
+José Manuel Sá	Tondela	N.A.	0	0
+José Mota	Desportivo Aves	N.A.	0	0
+Lito Vidigal	Vitória Setúbal	N.A.	0	0
+Luís Castro	Vitória Guimarães	N.A.	0	0
+Luís Gonçalves	Belenenses	N.A.	0	0
+Nuno Manta Santos	Feirense	N.A.	0	0
+Nuno Oliveira	a	a	1	1
+Pepa	Tondela	N.A.	0	0
+Professor Neca	Desportivo Aves	N.A.	0	0
+Raul José	Sporting	N.A.	0	0
+Rui Santos	Vitória Setúbal	N.A.	0	0
+Tiago Fernandes	Desp. Chaves	N.A.	0	0
+Tiago Teixeira	Belenenses	N.A.	0	0
+Vitinha	Desportivo Aves	N.A.	0	0
+Zé Nando	Moreirense	N.A.	0	0
+Adilson	Desportivo Aves	Guarda-redes	0	0
+Adriano Facchini	Desportivo Aves	Guarda-redes	0	0
+Amir Abedzadeh	Marítimo	Guarda-redes	13	0
+André Ferreira	Desportivo Aves	Guarda-redes	6	0
+André Lopes	Tondela	Guarda-redes	0	0
+António Filipe	Desp. Chaves	Guarda-redes	0	0
+Artur Moraes	Desportivo Aves	Guarda-redes	0	0
+Assis	Boavista	Guarda-redes	0	0
+Bruno Silva	Desportivo Aves	Guarda-redes	0	0
+Bruno Varela	Benfica	Guarda-redes	0	0
+Caio Secco	Feirense	Guarda-redes	12	0
+Carlos Alves	Rio Ave	Guarda-redes	0	0
+Carlos Henriques	Portimonense	Guarda-redes	0	0
+Casillas	FC Porto	Guarda-redes	13	0
+Charles	Marítimo	Guarda-redes	0	0
+Claudio Ramos	Tondela	Guarda-redes	13	0
+Cristiano	Vitória Setúbal	Guarda-redes	4	0
+D. Alampasu	Feirense	Guarda-redes	0	0
+Daniel	Nacional	Guarda-redes	11	0
+Diogo Costa	FC Porto	Guarda-redes	0	0
+Diogo Silva	Tondela	Guarda-redes	0	0
+Douglas	Vitória Guimarães	Guarda-redes	13	0
+Edgar Mendonça	Marítimo	Guarda-redes	0	0
+Fabiano	FC Porto	Guarda-redes	0	0
+Fabio	Desportivo Aves	Guarda-redes	0	0
+G. Makaridze	Rio Ave	Guarda-redes	0	0
+Gauther	Nacional	Guarda-redes	0	0
+Guilherme Oliveira	Belenenses	Guarda-redes	0	0
+Han Jiaqi	Desportivo Aves	Guarda-redes	0	0
+Jhonatan	Moreirense	Guarda-redes	13	0
+Joao Kuspiosz	Desp. Chaves	Guarda-redes	0	0
+João Lopes	Santa Clara	Guarda-redes	0	0
+Joel Pereira	Vitória Setúbal	Guarda-redes	9	0
+José Manuel	Marítimo	Guarda-redes	0	0
+José Sá	FC Porto	Guarda-redes	0	0
+Léo Jardim	Rio Ave	Guarda-redes	13	0
+Leonardo	Portimonense	Guarda-redes	6	0
+Lucas França	Nacional	Guarda-redes	2	0
+Luís Maximiano	Sporting	Guarda-redes	0	0
+Luís Paulo	Santa Clara	Guarda-redes	0	0
+Marafona	Sp. Braga	Guarda-redes	0	0
+Marco	Santa Clara	Guarda-redes	13	0
+Matheus	Sp. Braga	Guarda-redes	3	0
+Miguel Ângelo	Tondela	Guarda-redes	0	0
+Miguel Lázaro	Vitória Setúbal	Guarda-redes	0	0
+Miguel Oliveira	Vitória Guimarães	Guarda-redes	0	0
+Miguel Silva	Vitória Guimarães	Guarda-redes	0	0
+Mika	Belenenses	Guarda-redes	0	0
+Nuno Macedo	Moreirense	Guarda-redes	0	0
+O. Framelin	Nacional	Guarda-redes	0	0
+Paulo Vitor	Rio Ave	Guarda-redes	0	0
+Pedro Mateus	Marítimo	Guarda-redes	0	0
+Pedro Silva	Tondela	Guarda-redes	0	0
+Pedro Trigueira	Moreirense	Guarda-redes	0	0
+Q. Beunardeau	Desportivo Aves	Guarda-redes	7	0
+Rafael Bracali	Boavista	Guarda-redes	0	0
+Rafael Broetto	Marítimo	Guarda-redes	0	0
+Raphael Aflalo	Desportivo Aves	Guarda-redes	0	0
+Renan Ribeiro	Sporting	Guarda-redes	7	0
+Ricardo	Desp. Chaves	Guarda-redes	13	0
+Ricardo Ferreira	Portimonense	Guarda-redes	7	0
+Ricardo Janota	Tondela	Guarda-redes	0	0
+Ricardo Moura	Tondela	Guarda-redes	0	0
+Rodolfo Cardoso	Santa Clara	Guarda-redes	0	0
+Salin	Sporting	Guarda-redes	7	0

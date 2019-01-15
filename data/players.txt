@@ -1,0 +1,3 @@
+Nome	DataDeNascimento	Posicao	Clube	Email	Contacto	Agente	Estado	Vencimento
+Daniel Duarte Pinho	15/11/1978	MC	FCGuimarães	pumbasnabarra@hotmail.com	935768475	Manuel Peixoto	Kansas City	948493
+Joao Carmo	30/01/1978	LE	SLBenfica	joaocarmo@hotmail.com	9234345456	Padeiro	Aveiro	123234
